@@ -3,5 +3,5 @@ project(space_invaders)
 
 set(CMAKE_CXX_STANDARD 14)
 
-set(SOURCE_FILES main.cpp)
+set(SOURCE_FILES src/main.cpp)
 add_executable(space_invaders ${SOURCE_FILES})
