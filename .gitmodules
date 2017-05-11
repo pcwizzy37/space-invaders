@@ -6,3 +6,7 @@
 	path = lib/glm
 	url = git@github.com:g-truc/glm.git
     branch = 5dcc56489e1b66dfd5bca751fa9b8dc68059e008
+[submodule "vulkan"]
+	path = lib/vulkan
+	url = git@github.com:KhronosGroup/Vulkan-LoaderAndValidationLayers.git
+	branch = ebeeed1f0b22188f42c8bc8e489239386ab5f0a3
